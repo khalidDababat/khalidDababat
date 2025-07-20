@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalid Dababat</h1>
 <h3 align="center">A passionate frontend developer from Palestine</h3>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently **Front-End Developer**
 
 - 👯 I’m looking to collaborate on **Projects Front-End Developer**
 

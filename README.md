@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML | CSS | js | probleam Solving**
 
-- 📫 How to reach me **khaliddababat07@gmail.com**
+- 📫 How to reach me **khaliddababat@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funy**
 
